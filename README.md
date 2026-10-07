@@ -1,6 +1,6 @@
 # 📊 Interactive Sales Dashboard
 
-## Week 6 — Data Visualization Mastery with Seaborn & Plotly
+## Data Visualization Mastery with Seaborn & Plotly
 
 ---
 
@@ -534,15 +534,6 @@ Possible future improvements include:
 
 ---
 
-## 👨‍💻 Author
-
-**Viren**
-
-Data Science Intern
-The Developers Arena
-
----
-
 ## 📌 Conclusion
 
 The Interactive Sales Dashboard demonstrates the use of Python-based visualization tools to transform raw sales data into meaningful analytical insights.
@@ -550,3 +541,12 @@ The Interactive Sales Dashboard demonstrates the use of Python-based visualizati
 The project combines statistical visualization with interactive Plotly components and follows a modular programming structure to improve readability, maintainability, and organization.
 
 The final dashboard provides an accessible way to explore product performance, regional sales, customer behavior, pricing distributions, and sales trends.
+
+---
+
+## 👨‍💻 Author
+Viren Wankhade
+Aspiring Data Analyst | Data Science Enthusiast
+- GitHub: https://github.com/viren689
+- Portfolio: https://viren-portfolio-gamma.vercel.app/
+- Email: viren19271@gmail.com
